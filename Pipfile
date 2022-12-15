@@ -8,16 +8,20 @@ pymysql = "*"
 requests = "*"
 jupyterlab = "*"
 pandas = "*"
+numpy = "*"
 pyspark = "== 3.*"
 pyyaml = "*"
 pyhocon = "*"
 cryptography = "*"
 tornado = "*"
+chart-studio = "*"
 confluent-kafka = "*"
-pylint = "*"
-yapf = "*"
 
 [dev-packages]
+pylint = "*"
+yapf = "*"
+pytest = "*"
+
 
 
 [requires]
