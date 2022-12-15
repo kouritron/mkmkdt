@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5f2b00f08d9dc7b2a3fad38f115930d832fb7fa269426d4c6f3048c767310caf"
+            "sha256": "5fe74c16c498b76c0cfe40ca71a76f8a5b8de3277c95b8c6b3438399090f8771"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -376,6 +376,14 @@
             ],
             "version": "==0.2.0"
         },
+        "ipywidgets": {
+            "hashes": [
+                "sha256:2ec50df8538a1d4ddd5d454830d010922ad1015e81ac23efb27c0908bbc1eece",
+                "sha256:db7dd35fb1217636cbdbe0ba0bd2216d91a7695cb28b5c1dca17e62cd51378de"
+            ],
+            "index": "pypi",
+            "version": "==8.0.3"
+        },
         "isoduration": {
             "hashes": [
                 "sha256:ac2f9015137935279eac671f94f89eb00584f940f5dc49462a0c4ee692ba1bd9",
@@ -484,6 +492,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==2.16.5"
+        },
+        "jupyterlab-widgets": {
+            "hashes": [
+                "sha256:4c9275daa6d20fc96c3aea45756ece7110850d035b0b93a6a40e918016b927da",
+                "sha256:9a568e022b8bb53ab23291f6ddb52f8002b789c2c5763378cbc882be1d619be8"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==3.0.4"
         },
         "markupsafe": {
             "hashes": [
@@ -1170,6 +1186,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==1.4.2"
+        },
+        "widgetsnbextension": {
+            "hashes": [
+                "sha256:44c69f18237af0f610557d6c1c7ef76853f5856a0e604c0a517f2320566bb775",
+                "sha256:fa0e840719ec95dd2ec85c3a48913f1a0c29d323eacbcdb0b29bfed0cc6da678"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==4.0.4"
         }
     },
     "develop": {
