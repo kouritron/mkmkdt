@@ -1,8 +1,14 @@
 #!/bin/bash
 
 # may need these first:
-# pipenv install
 # pipenv install --dev
+
+# to drop venv and create new one:
+# pipenv --rm
+# pipenv shell
+
+
+
 
 # --------------------
 
