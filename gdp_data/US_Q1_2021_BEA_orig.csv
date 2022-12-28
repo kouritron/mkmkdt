@@ -1,4 +1,4 @@
-Sector|gdp_q1 (Billions USD)
+sector|gdp_q1 (billions usd)
 Agriculture, forestry, fishing, and hunting|$500.2
 Farms|$445.4
 Forestry, fishing, and related activities|$54.8
@@ -92,5 +92,3 @@ National defense|$744.3
 Nondefense|$521.0
 Government enterprises|$99.8
 State and local|$2,899.5
-General government|$2,506.7
-Government enterprises|$392.8
