@@ -17,6 +17,7 @@ cryptography = "*"
 tornado = "*"
 chart-studio = "*"
 confluent-kafka = "*"
+pyarrow = "*"
 
 [dev-packages]
 pylint = "*"
